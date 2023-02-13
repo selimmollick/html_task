@@ -1,0 +1,228 @@
+#body{
+    background-color: black;
+    
+}
+.headg
+{
+    color: red;
+}
+.logo_box
+{
+    justify-content: center;
+    color: red;
+    text-align: center;
+}
+.socal_icon {
+    vertical-align: middle;
+   text-align: start;
+   margin: 2% !important;
+    align-items: start;
+    font-size: 20px;
+    color: #E6E6E6;
+}
+.socal_icon :hover{
+    color: rgb(5, 202, 84);
+}
+.light_btn
+{
+    text-align: center;
+    text-align: end;
+    margin: 2% !important;
+}
+
+
+
+.nav_main
+{
+    text-align: center;
+    display: flex;
+    padding-left: 35px;
+}
+/* ----------------------------------------------
+slider_style */
+.heding_top
+{
+    position: absolute;
+    text-align: center;
+}
+.col-md-5 .justify-content-center
+{
+    text-align: center;
+}
+
+
+/* -----------------------------------------------------
+navbar */
+.main_hedding
+{
+    
+    margin-top: 130px !important; 
+}
+.main_hedding h6
+{
+   color :#a10c8d;
+}
+.main_hedding h1{
+    color: white;
+}
+.main_hedding p{
+    color: aliceblue;
+}
+.btn_dis
+{
+    padding: 10px;
+    width: 150px;
+    background-color: #a10c8d;
+    border-radius: 10px;
+    color: #E6E6E6;
+    font-weight: 600;
+}
+.btn_dis:hover
+{
+    background-color: rgb(7, 177, 106);
+    color: black;
+}
+
+
+
+
+
+
+
+nav {
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background: transparent;
+    /* color: black; */
+    /* box-shadow: 1px 3px 4px #E6E6E6; */
+    align-items: center;
+    border-top: 1px solid #E6E6E6;
+    margin-bottom: 50px;
+    padding-top:10px;
+
+  }
+  
+  .navigation {
+    display: inline-flex;
+    align-items: center;
+    /* margin: 0 25px; */
+  }
+  
+  .brand {
+    flex: 1;
+    margin: 0 25px;
+  }
+  
+  .menu {
+    padding-top: 10px;
+    display: flex;
+    list-style:none;
+    align-items: center;
+    color: #E6E6E6;
+  }
+  
+  .menu li a {
+    color: inherit;
+    text-decoration: none;
+    margin: 0 15px;
+  }
+  
+  .menu li a:hover {
+    text-decoration: underline;
+    color: black;
+
+  }
+
+
+  /* ----------------------------------------------------------
+  box_section */
+ 
+  .line_box
+  {
+    border-bottom: 1px solid white;
+    margin-bottom: 25px;
+    
+  }
+  
+  .logos
+  {
+    display: flex;
+  }
+  /* ---------------------------------------------------------------------
+img_box */
+
+.img_box
+{
+    margin-top: 130px !important; 
+}
+.img_box p {
+    color: #a9a7a7;
+    font-size: 18px;
+    text-align: justify;
+}
+.img_row
+{
+    height: 250px;
+    background-color: #BE97FA;
+    width: 100%;
+    margin-top: 25px !important;
+    border-radius: 20px;
+}
+.bg_png
+{
+    background-image: url("./gb.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.img_row_hedding
+{
+    margin-top: 130px !important; 
+}
+.lase_btn
+{
+    margin-top: 130px !important; 
+}
+/* ----------------------------------------------------------------------------
+box_section */
+.box_a
+{
+    border: 1px solid white;
+    height: 50px;
+
+}
+.box_b
+{
+    border: 1px solid white;
+    height: 50px;
+    
+}
+.box_c
+{
+    border: 1px solid white;
+    height: 50px;
+    
+}
+.box_d
+{
+    border: 1px solid white;
+    height: 50px;
+    
+}
+
+
+.card-img, .card-img-bottom, .card-img-top{
+    height: 30% !important;
+    width: 30% !important;  
+    /* align-self: center; */
+
+    
+}
+.card-body{
+    text-align: justify;
+
+
+}
